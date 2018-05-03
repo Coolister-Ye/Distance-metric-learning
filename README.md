@@ -5,6 +5,7 @@ Implement the learning algorithm from the paper "Distance metric learning, with 
 
 *The objective function we want to achieve is as follows. (3-5)
 
-min{A} sum{S}[(xi-xj)'A(xi-xj)]
+min{A} sum{S}((xi-xj)'A(xi-xj))
+s.t. sum{D}sqrt((xi-xj)'A(xi-xj))
 
 
