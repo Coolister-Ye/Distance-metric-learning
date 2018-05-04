@@ -9,4 +9,4 @@ min{A} sum{S}((xi-xj)'A(xi-xj))
 
 s.t. sum{D}sqrt((xi-xj)'A(xi-xj))
 
-![alt text](Distance-metric-learning/figure_1.png)
+![alt text](https://github.com/JasonYee/Distance-metric-learning/blob/master/figure_1.png)
