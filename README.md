@@ -9,4 +9,4 @@ min{A} sum{S}((xi-xj)'A(xi-xj))
 
 s.t. sum{D}sqrt((xi-xj)'A(xi-xj))
 
-![alt text](https://drive.google.com/file/d/1WaCobipfEwrqlaviHH_pWz2Wkid6wM5R/view?usp=sharing)
+![alt text](https://drive.google.com/file/d/1WaCobipfEwrqlaviHH_pWz2Wkid6wM5R/view)
